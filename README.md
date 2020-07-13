@@ -1,6 +1,18 @@
-### Hi there 👋
+## Hello
+I’m currently really interested:
+
+- [Phaser](http://phaser.io/)
+    - I have [a starter template that leverages Visual Studio Code, TypeScript, and Node.js](https://github.com/JamesSkemp/phaser-3-vsc-typescript-nodejs)
+- TypeScript
+- Advanced Git
+    - [My personal Git commands site](https://git.jamesrskemp.com/), for keeping track off all those less frequently used commands, and hopefully helping others.
+
+You can also find me on [GitLab.com](https://gitlab.com/strivinglife).
 
 <!--
+
+### Hi there 👋
+
 **JamesSkemp/JamesSkemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
