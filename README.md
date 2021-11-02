@@ -1,13 +1,21 @@
 ## Hello
-I’m currently really interested in:
+I'm currently interested in:
 
-- [Phaser](http://phaser.io/)
+- [Phaser](https://phaser.io/)
     - I have [a starter template that leverages Visual Studio Code, TypeScript, and Node.js](https://github.com/JamesSkemp/phaser-3-vsc-typescript-nodejs)
 - TypeScript
 - Advanced Git
     - [My personal Git commands site](https://git.jamesrskemp.com/), for keeping track off all those less frequently used commands, and hopefully helping others.
 
 You can also find me on [GitLab.com](https://gitlab.com/strivinglife).
+
+### Books
+Listed so I can quickly get to them.
+- https://git.jamesrskemp.com/
+- https://cmds.jamesrskemp.com/
+- https://strivinglife.gitlab.io/book-gitlab-mdbook/
+- https://strivinglife.gitlab.io/book-angular/
+- https://strivinglife.gitlab.io/book-raspberry-pi/
 
 <!--
 
