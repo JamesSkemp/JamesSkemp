@@ -17,6 +17,12 @@ Listed so I can quickly get to them.
 - https://strivinglife.gitlab.io/book-angular/
 - https://strivinglife.gitlab.io/book-raspberry-pi/
 
+### Some Things I Want to Play With
+- [Go](https://go.dev/)
+- [Lua](https://www.lua.org/)
+- [Twine](https://twinery.org/)
+- Raspberry Pi / Ubuntu / Vultr / NGINX / .NET 6
+
 <!--
 
 ### Hi there 👋
