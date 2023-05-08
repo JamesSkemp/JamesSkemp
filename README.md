@@ -7,7 +7,7 @@ I'm currently interested in:
 - Advanced Git
     - [My personal Git commands site](https://git.jamesrskemp.com/), for keeping track off all those less frequently used commands, and hopefully helping others.
 
-You can also find me on [GitLab.com](https://gitlab.com/strivinglife).
+You can also find me on [GitLab.com](https://gitlab.com/strivinglife) and [public projects on my personal Gitea instance](https://git.ebacher-skemp.com/explore/repos).
 
 ### Books
 Listed so I can quickly get to them.
